@@ -1,0 +1,97 @@
+Time: 7 seconds
+Attempts: 3
+Secret Word: banana
+Guessed letters: a
+b
+n
+
+--------------------------
+Time: 3 seconds
+Attempts: 3
+Secret Word: banana
+Guessed letters: a
+b
+n
+
+--------------------------
+Time: 15 seconds
+Attempts: 8
+Secret Word: keyboard
+Guessed letters: a
+o
+r
+d
+k
+e
+y
+b
+
+--------------------------
+Time: 20 seconds
+Attempts: 10
+Secret Word: keyboard
+Guessed letters: a
+o
+r
+g
+k
+t
+e
+y
+b
+d
+
+--------------------------
+Time: 16 seconds
+Attempts: 10
+Secret Word: keyboard
+Guessed letters: ¨
+b
+a
+n
+k
+e
+y
+o
+r
+d
+
+--------------------------
+Time: 44 seconds
+Attempts: 8
+Secret Word: garden
+Guessed letters: a
+b
+n
+o
+r
+e
+g
+d
+
+--------------------------
+Time: 10 seconds
+Attempts: 6
+Secret Word: school
+Guessed letters: a r e n q t 
+--------------------------
+Time: 5 seconds
+Attempts: 3
+Secret Word: banana
+Guessed letters: b a n 
+--------------------------
+Time: 13 seconds
+Attempts: 11
+Secret Word: garden
+Guessed letters: a q e r t g f d s y o 
+--------------------------
+Time: 8 seconds
+Attempts: 6
+Secret Word: school
+Guessed letters: f a r e t y 
+--------------------------
+Time: 28 seconds
+Attempts: 6
+Secret Word: school
+Guessed letters: a b e r t y 
+--------------------------
